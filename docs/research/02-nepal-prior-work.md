@@ -57,5 +57,5 @@ The Malaysian 45 kHz design sits **above** the roughly 42 kHz limit of rhesus he
 ## To do
 
 - [ ] Get the full PDFs of both papers and fill in the unknowns above
-- [ ] Read the SentaFito53 code
+- [x] Read the SentaFito53 code (see [03](./03-code-review-sentafito53.md))
 - [ ] Email Thapa and Giri

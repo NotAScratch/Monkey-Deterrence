@@ -83,7 +83,7 @@ This file restarts the research from scratch. It covers four questions:
 
 ## Open questions and next research steps
 
-1. Read the full JACEM paper and Thapa's work, and contact Thapa about data and collaboration.
+1. ~~Read the full JACEM paper and Thapa's work~~: abstract-level notes in [02-nepal-prior-work.md](./02-nepal-prior-work.md); full texts still needed. Contact Thapa about data and collaboration.
 2. Contact DNPWC or the Division Forest Office to confirm non-harmful deterrence is legal.
 3. Look for controlled studies on habituation to deterrents (Google Scholar: "macaque deterrent habituation", "crop raiding primate deterrent evaluation"), and read Hill's group at Durham.
 4. Check LILA BC, iNaturalist and Open Images for usable macaque images, and tell rhesus apart from Assamese.

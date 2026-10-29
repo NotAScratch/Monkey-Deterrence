@@ -47,7 +47,7 @@ Currently being developed solo, across AI/ML, hardware, backend, frontend, DevOp
 
 ## Roadmap
 
-- [x] Survey existing systems (Sprint 1)
+- [ ] Survey existing systems — first pass in [`docs/research/01-landscape.md`](./docs/research/01-landscape.md)
 - [ ] Detection + behavior classification approach
 - [ ] System architecture
 - [ ] Hardware spec
